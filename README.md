@@ -1,4 +1,4 @@
 Login Register
 =============
 
-These files acompany the tutorial: [Login and Registration system with PHP](https://daveismyname.blog/login-and-registration-system-with-php)
+Module for Login and Signup using PHP . This can be instantly integrated in a project or can be used as reference.
