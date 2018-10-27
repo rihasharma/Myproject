@@ -1,7 +1,7 @@
 <?php
 require('includes/config.php');
 
-//collect values from the url
+
 $memberID = trim($_GET['x']);
 $active = trim($_GET['y']);
 
