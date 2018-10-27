@@ -1,3 +1,4 @@
+<html>
 <?php require('includes/config.php'); 
 
 //if not logged in redirect to login page
@@ -30,3 +31,4 @@ require('layout/header.php');
 //include header template
 require('layout/footer.php'); 
 ?>
+</html>
